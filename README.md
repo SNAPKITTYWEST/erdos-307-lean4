@@ -84,3 +84,5 @@ Requires Lean 4.14.0 + Mathlib v4.14.0.
 ---
 
 © 2026 Bel Esprit D'Accord Irrevocable Trust · SNAPKITTYWEST
+
+NO MATHLIB 
